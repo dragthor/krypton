@@ -1,2 +1,2 @@
-# krypton
-Test automation framework for web applications.
+# kryptonJs
+kryptonJs is a JavaScript test automation tool for web applications.
