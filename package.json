@@ -2,7 +2,7 @@
   "name": "krypton",
   "version": "0.0.1",
   "description": "JavaScript test automation tool for web applications.",
-  "keywords" : [  ],
+  "keywords" : [ "test-automation", "testing-tools", "test-driven-development", "selenium" ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dragthor/krypton.git"
